@@ -1,4 +1,4 @@
-# api-calll (postman)
+# api-call (postman)
 
 # RAPHAEL RUSSEL T. RICO
 # III-BSIT B
@@ -21,5 +21,5 @@ This project demonstrates how to test and manage a RESTful API using Postman.
 - [Set header: Content-Type: application/json for POST/PUT requests.]
 - [Click Send to view the response from the API.]
 
-# Watch the demonstrate video ↓
+# Demonstration Video ↓
 https://drive.google.com/drive/folders/1V5K5bpimttk659rZZzeWm7ZsXpCY7BR3
