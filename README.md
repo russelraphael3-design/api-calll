@@ -1,6 +1,9 @@
 # api-calll (postman)
 
-Short Project Description:
+# RAPHAEL RUSSEL T. RICO
+# III-BSIT B
+
+# Short Project Description:
 This project demonstrates how to test and manage a RESTful API using Postman. 
 
 # Setup Instructions:
@@ -18,5 +21,5 @@ DELETE /api/students/{id} – delete a student
 Set header: Content-Type: application/json for POST/PUT requests.
 Click Send to view the response from the API.
 
-Watch the demonstrate video
+# Watch the demonstrate video
 https://drive.google.com/drive/folders/1V5K5bpimttk659rZZzeWm7ZsXpCY7BR3
