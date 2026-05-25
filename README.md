@@ -1,8 +1,5 @@
 # api-call (postman)
 
-# RAPHAEL RUSSEL T. RICO
-# III-BSIT B
-
 # Short Project Description:
 This project demonstrates how to test and manage a RESTful API using Postman. 
 
